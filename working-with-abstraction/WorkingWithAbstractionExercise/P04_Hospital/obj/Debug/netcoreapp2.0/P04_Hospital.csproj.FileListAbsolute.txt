@@ -1,0 +1,10 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\bin\Debug\netcoreapp2.0\P04_Hospital.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P04_Hospital\obj\Debug\netcoreapp2.0\P04_Hospital.pdb

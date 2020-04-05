@@ -1,0 +1,10 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\bin\Debug\netcoreapp2.0\P01_RawData.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionExercise\P01_RawData\obj\Debug\netcoreapp2.0\P01_RawData.pdb

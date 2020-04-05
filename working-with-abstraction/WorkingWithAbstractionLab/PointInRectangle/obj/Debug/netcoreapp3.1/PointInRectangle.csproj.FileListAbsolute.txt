@@ -1,0 +1,11 @@
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.exe
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.deps.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.runtimeconfig.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.runtimeconfig.dev.json
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\bin\Debug\netcoreapp3.1\PointInRectangle.pdb
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.csprojAssemblyReference.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.AssemblyInfoInputs.cache
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.AssemblyInfo.cs
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.dll
+C:\Users\Alek\Desktop\stuff\CompSci\C# OOP - February 2020\Working with Abstraction\WorkingWithAbstractionLab\PointInRectangle\obj\Debug\netcoreapp3.1\PointInRectangle.pdb
